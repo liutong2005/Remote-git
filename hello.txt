@@ -29,7 +29,8 @@ hello git! hello ldffgdfghj
 hello git! hello ldffgdfghj
 
 hello git! hello ldffgdfghj master test
+hello git! hello ldffgdfghj hot-fix test
 hello git! hello ldffgdfghj
 hello git! hello ldffgdfghj
 hello git! hello ldffgdfghj
-o git! hello ldffgdfghj
+o git! ldffgdfghj
